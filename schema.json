@@ -154,7 +154,7 @@
       "type": "array",
       "items": {
         "type": "object",
-        "description": "Console announcement",
+        "description": "Website announcement",
         "required": ["text"],
         "properties": {
           "text": {
