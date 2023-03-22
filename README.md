@@ -1,5 +1,5 @@
 # announcements
-Announcements to display in dApps.
+Announcements to display in vega frontends.
 
 The `announcements.json` file from this repo is intended to be consumed by the dApps to be able to display announcements so that they are not hardcoded into the frontend codebase.
 
@@ -11,7 +11,7 @@ Currently the announcement data model supports the following properties:
   - `from`: a datetime string in ISO format, the time when the announcement should show (optional)
   - `to`: a datetime string in ISO format, until when the announcement should be alive (optional)
 
-The announcements json would take a list of these announcement models for each dApp:
+The announcements json would take a list of these announcement models for each (d)app:
 
 ```
 {
@@ -26,7 +26,8 @@ The announcements json would take a list of these announcement models for each d
   }],
   "governance": [...],
   "explorer": [...],
-  "wallet": []
+  "wallet": [],
+  "website": []
 }
 
 ```
