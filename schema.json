@@ -149,6 +149,43 @@
           }
         }
       }
+    },
+    "website": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "description": "Website announcement",
+        "required": ["text"],
+        "properties": {
+          "text": {
+            "type": "string",
+            "description": "Announcement text"
+          },
+          "url": {
+            "type": "string",
+            "description": "Announcement url"
+          },
+          "urlText": {
+            "type": "string",
+            "description": "Announcement text for url"
+          },
+          "timing": {
+            "type": "object",
+            "description": "When should the announcement be showing",
+            "required": ["from", "to"],
+            "properties": {
+              "from": {
+                "type": "string",
+                "format": "date-time"
+              },
+              "to": {
+                "type": "string",
+                "format": "date-time"
+              }
+            }
+          }
+        }
+      }
     }
   }
 }
