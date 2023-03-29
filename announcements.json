@@ -1,7 +1,47 @@
 {
-  "console": [],
-  "governance": [],
-  "explorer": [],
-  "wallet": [],
-  "website": []
+  "console": [{
+    "text": "MAINNET SIMS #4 IS COMING SOON!",
+    "urlText": "LEARN MORE",
+    "url": "https://fairground.wtf",
+    "timing": {
+      "from": "",
+      "to": ""
+    }
+  }],
+  "governance": [{
+    "text": "MAINNET SIMS #4 IS COMING SOON!",
+    "urlText": "LEARN MORE",
+    "url": "https://fairground.wtf",
+    "timing": {
+      "from": "",
+      "to": ""
+    }
+  }],
+  "explorer": [{
+    "text": "MAINNET SIMS #4 IS COMING SOON!",
+    "urlText": "LEARN MORE",
+    "url": "https://fairground.wtf",
+    "timing": {
+      "from": "",
+      "to": ""
+    }
+  }],
+  "wallet": [{
+    "text": "MAINNET SIMS #4 IS COMING SOON!",
+    "urlText": "LEARN MORE",
+    "url": "https://fairground.wtf",
+    "timing": {
+      "from": "",
+      "to": ""
+    }
+  }],
+  "website": [{
+    "text": "MAINNET SIMS #4 IS COMING SOON!",
+    "urlText": "LEARN MORE",
+    "url": "https://fairground.wtf",
+    "timing": {
+      "from": "",
+      "to": ""
+    }
+  }],
 }
