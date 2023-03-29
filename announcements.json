@@ -1,7 +1,27 @@
 {
-  "console": [],
-  "governance": [],
-  "explorer": [],
-  "wallet": [],
-  "website": []
+  "console": [{
+    "text": "MAINNET SIMS #4 IS COMING SOON!",
+    "urlText": "LEARN MORE",
+    "url": "https://fairground.wtf"
+  }],
+  "governance": [{
+    "text": "MAINNET SIMS #4 IS COMING SOON!",
+    "urlText": "LEARN MORE",
+    "url": "https://fairground.wtf"
+  }],
+  "explorer": [{
+    "text": "MAINNET SIMS #4 IS COMING SOON!",
+    "urlText": "LEARN MORE",
+    "url": "https://fairground.wtf"
+  }],
+  "wallet": [{
+    "text": "MAINNET SIMS #4 IS COMING SOON!",
+    "urlText": "LEARN MORE",
+    "url": "https://fairground.wtf"
+  }],
+  "website": [{
+    "text": "MAINNET SIMS #4 IS COMING SOON!",
+    "urlText": "LEARN MORE",
+    "url": "https://fairground.wtf"
+  }]
 }
