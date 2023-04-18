@@ -1,27 +1,7 @@
 {
-  "console": [{
-    "text": "MAINNET SIM #4 IS LIVE!",
-    "urlText": "GET INVOLVED",
-    "url": "https://fairground.wtf/sim4"
-  }],
-  "governance": [{
-    "text": "MAINNET SIM #4 IS LIVE!",
-    "urlText": "GET INVOLVED",
-    "url": "https://fairground.wtf/sim4"
-  }],
-  "explorer": [{
-    "text": "MAINNET SIM #4 IS LIVE!",
-    "urlText": "GET INVOLVED",
-    "url": "https://fairground.wtf/sim4"
-  }],
-  "wallet": [{
-    "text": "MAINNET SIM #4 IS LIVE!",
-    "urlText": "GET INVOLVED",
-    "url": "https://fairground.wtf/sim4"
-  }],
-  "website": [{
-    "text": "MAINNET SIM #4 IS LIVE!",
-    "urlText": "GET INVOLVED",
-    "url": "https://fairground.wtf/sim4"
-  }]
+  "console": [],
+  "governance": [],
+  "explorer": [],
+  "wallet": [],
+  "website": []
 }
