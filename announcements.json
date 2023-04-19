@@ -1,7 +1,27 @@
 {
-  "console": [],
-  "governance": [],
-  "explorer": [],
-  "wallet": [],
-  "website": []
+  "console": [{
+    "text": "TEST ANNOUNCEMENT!",
+    "urlText": "CLICK LINK",
+    "url": "https://fairground.wtf"
+  }],
+  "governance": [{
+    "text": "TEST ANNOUNCEMENT!",
+    "urlText": "CLICK LINK",
+    "url": "https://fairground.wtf"
+  }],
+  "explorer": [{
+    "text": "TEST ANNOUNCEMENT!",
+    "urlText": "CLICK LINK",
+    "url": "https://fairground.wtf"
+  }],
+  "wallet": [{
+    "text": "TEST ANNOUNCEMENT!",
+    "urlText": "CLICK LINK",
+    "url": "https://fairground.wtf"
+  }],
+  "website": [{
+    "text": "TEST ANNOUNCEMENT!",
+    "urlText": "CLICK LINK",
+    "url": "https://fairground.wtf"
+  }]
 }
