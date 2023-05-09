@@ -1,7 +1,47 @@
 {
-  "console": [],
-  "governance": [],
-  "explorer": [],
-  "wallet": [],
-  "website": []
+  "console": [{
+    "text": "Alpha Mainnet is almost live!",
+    "urlText": "Real time updates here",
+    "url": "https://vegaprotocol.notion.site/The-Road-to-Vega-Alpha-Mainnet-Countdown-to-Trading-576bc2655b0742cd941d38569c456240",
+    "timing": {
+      "from": "2023-05-09T08:00:00+00:00",
+      "to": "2023-05-09T11:00:00+00:00"
+    }
+  }],
+  "governance": [{
+    "text": "Alpha Mainnet is almost live!",
+    "urlText": "Real time updates here",
+    "url": "https://vegaprotocol.notion.site/The-Road-to-Vega-Alpha-Mainnet-Countdown-to-Trading-576bc2655b0742cd941d38569c456240",
+    "timing": {
+      "from": "2023-05-09T08:00:00+00:00",
+      "to": "2023-05-09T11:00:00+00:00"
+    }
+  }],
+  "explorer": [{
+    "text": "Alpha Mainnet is almost live!",
+    "urlText": "Real time updates here",
+    "url": "https://vegaprotocol.notion.site/The-Road-to-Vega-Alpha-Mainnet-Countdown-to-Trading-576bc2655b0742cd941d38569c456240",
+    "timing": {
+      "from": "2023-05-09T08:00:00+00:00",
+      "to": "2023-05-09T11:00:00+00:00"
+    }
+  }],
+  "wallet": [{
+    "text": "Alpha Mainnet is almost live!",
+    "urlText": "Real time updates here",
+    "url": "https://vegaprotocol.notion.site/The-Road-to-Vega-Alpha-Mainnet-Countdown-to-Trading-576bc2655b0742cd941d38569c456240",
+    "timing": {
+      "from": "2023-05-09T08:00:00+00:00",
+      "to": "2023-05-09T11:00:00+00:00"
+    }
+  }],
+  "website": [{
+    "text": "Alpha Mainnet is almost live!",
+    "urlText": "Real time updates here",
+    "url": "https://vegaprotocol.notion.site/The-Road-to-Vega-Alpha-Mainnet-Countdown-to-Trading-576bc2655b0742cd941d38569c456240",
+    "timing": {
+      "from": "2023-05-09T08:00:00+00:00",
+      "to": "2023-05-09T11:00:00+00:00"
+    }
+  }]
 }
