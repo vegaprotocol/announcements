@@ -1,37 +1,7 @@
 {
-  "console": [
-    {
-      "text": "Alpha Mainnet is live!",
-      "urlText": "Follow progress to first markets here",
-      "url": "https://vegaprotocol.notion.site/The-Road-to-Vega-Alpha-Mainnet-Countdown-to-Trading-576bc2655b0742cd941d38569c456240"
-    }
-  ],
-  "governance": [
-    {
-      "text": "Alpha Mainnet is live!",
-      "urlText": "Follow progress to first markets here",
-      "url": "https://vegaprotocol.notion.site/The-Road-to-Vega-Alpha-Mainnet-Countdown-to-Trading-576bc2655b0742cd941d38569c456240"
-    }
-  ],
-  "explorer": [
-    {
-      "text": "Alpha Mainnet is live!",
-      "urlText": "Follow progress to first markets here",
-      "url": "https://vegaprotocol.notion.site/The-Road-to-Vega-Alpha-Mainnet-Countdown-to-Trading-576bc2655b0742cd941d38569c456240"
-    }
-  ],
-  "wallet": [
-    {
-      "text": "Alpha Mainnet is live!",
-      "urlText": "Follow progress to first markets here",
-      "url": "https://vegaprotocol.notion.site/The-Road-to-Vega-Alpha-Mainnet-Countdown-to-Trading-576bc2655b0742cd941d38569c456240"
-    }
-  ],
-  "website": [
-    {
-      "text": "Alpha Mainnet is live!",
-      "urlText": "Follow progress to first markets here",
-      "url": "https://vegaprotocol.notion.site/The-Road-to-Vega-Alpha-Mainnet-Countdown-to-Trading-576bc2655b0742cd941d38569c456240"
-    }
-  ]
+  "console": [],
+  "governance": [],
+  "explorer": [],
+  "wallet": [],
+  "website": []
 }
