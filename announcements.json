@@ -21,5 +21,15 @@
       }
     }
   ],
-  "website": []
+  "website": [
+    {
+      "text": "Project update: Vega announces the next phase and governance vote on the future of the Vega chain and token.",
+      "urlText": "Read the announcement",
+      "url": "https://blog.vega.xyz/vega-the-next-phase-680e4c34252f",
+      "timing": {
+        "from": "2024-08-29T00:00:00+00:00",
+        "to": "2024-09-07T00:00:00+00:00"
+      }
+    }
+  ]
 }
