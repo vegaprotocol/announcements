@@ -23,12 +23,12 @@
   ],
   "website": [
     {
-      "text": "Alpha Mainnet is almost live!",
-      "urlText": "Real time updates here",
-      "url": "https://vegaprotocol.notion.site/The-Road-to-Vega-Alpha-Mainnet-Countdown-to-Trading-576bc2655b0742cd941d38569c456240",
+      "text": "Project update: Vega announces the next phase and governance vote on the future of the Vega chain and token.",
+      "urlText": "Read the announcement",
+      "url": "https://blog.vega.xyz/vega-the-next-phase-680e4c34252f",
       "timing": {
-        "from": "2023-05-09T10:00:00+00:00",
-        "to": "2023-05-09T12:00:00+00:00"
+        "from": "2024-08-29T00:00:00+00:00",
+        "to": "2024-09-07T00:00:00+00:00"
       }
     }
   ]
